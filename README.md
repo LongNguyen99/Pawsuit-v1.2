@@ -1,14 +1,14 @@
-             GDS6 - ROPS AND COBBERS - Pawsuit
+            ROPS AND COBBERS - Pawsuit
 
 ------------------------------------------------
                   Contributors
 ------------------------------------------------
 
-1. Andrew Hong - s3785131
-2. Louis - s3803253
-3. Long Thanh Nguyen (Jack) - s3627601
-4. Mishal Ahmed Shameer - s3852070
-5. Tom Bennett - s3901953
+1. Andrew Hong - 
+2. Louis - 
+3. Long Thanh Nguyen (Jack) - 
+4. Mishal Ahmed Shameer -
+5. Tom Bennett - s
 
 ------------------------------------------------
                     Controls
