@@ -4,11 +4,11 @@
                   Contributors
 ------------------------------------------------
 
-1. Andrew Hong - 
-2. Louis - 
-3. Long Thanh Nguyen (Jack) - 
-4. Mishal Ahmed Shameer -
-5. Tom Bennett - s
+1. Andrew Hong
+2. Louis
+3. Long Thanh Nguyen (Jack)
+4. Mishal Ahmed Shameer
+5. Tom Bennett
 
 ------------------------------------------------
                     Controls
